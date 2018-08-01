@@ -7,6 +7,7 @@ The repo containing the contests, entries and winners of the Code Every Day Hack
 * Late entries are permitted.
 * To enter a contest, the contestant must add their name to the list of competitors in the contest and submit a PR to the main repo (chenshuiluke/code-every-day-hackathon).
 * Contests will have a folder in the source tree and an issue associated with them.
+* A contest cannot start unless it has at least 3 contestants.
 * At the start of each contest, each contestant will be @'ed in a comment on the contest issue.
 * Projects must be opensource and be on GitHub.
 * Contestants cannot start working on their project until after they have been @'ed.
