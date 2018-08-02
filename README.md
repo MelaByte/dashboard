@@ -26,3 +26,12 @@ The repo containing the contests, entries and winners of the MelaByte Perpetual 
 The entire process can be audited via the git commit history. Everyone can see the PR submissions and who did what.
 ## 2. Fairness
 Everyone has a fair chance to win. Everyone will have four full weeks to work on their project. That should be enough time even for inexperienced programmers to learn some of the required skills and make something that they can be proud of.
+
+# Contests
+## Upcoming
+
+1. [#1 Genesis](https://github.com/MelaByte/01-genesis)
+
+## Current
+
+## Completed
