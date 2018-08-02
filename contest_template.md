@@ -1,3 +1,5 @@
+[Find More Info About MelaByte Hackathons Here](https://github.com/MelaByte/hackathon-rules)
+
 Contest Name:
 Contest #:
 
