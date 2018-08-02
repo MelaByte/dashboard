@@ -1,5 +1,7 @@
 # The Code Every Day Hackathon
-The repo containing the contests, entries and winners of the Code Every Day Hackathon
+The repo containing the contests, entries and winners of the Code Every Day Hackathon.
+
+[View our Hackathons](https://github.com/MelaByte)
 
 # Rules/Procedures
 
