@@ -5,7 +5,7 @@ The repo containing the contests, entries and winners of the Code Every Day Hack
 
 * Each contest lasts for 4 weeks.
 * Late entries are permitted.
-* To enter a contest, the contestant must add their name to the list of competitors in the contest and submit a PR to the main repo (chenshuiluke/code-every-day-hackathon).
+* To enter a contest, the contestant must add their name to the list of competitors in the contest and submit a PR to the main repo (MelaByte/<contest-name>).
 * Contests will have a folder in the source tree and an issue associated with them.
 * A contest cannot start unless it has at least 3 contestants.
 * At the start of each contest, each contestant will be @'ed in a comment on the contest issue.
