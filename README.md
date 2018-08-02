@@ -1,5 +1,5 @@
 # MelaByte Hackathon
-The repo containing the contests, entries and winners of the Code Every Day Hackathon.
+The repo containing the contests, entries and winners of the MelaByte Hackathon.
 
 [View our Hackathons](https://github.com/MelaByte)
 
