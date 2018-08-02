@@ -6,6 +6,7 @@ The repo containing the contests, entries and winners of the MelaByte Perpetual 
 # Rules/Procedures
 
 * Each contest lasts for 4 weeks.
+* Unless stated otherwise, the prize is to be featured (in the case of 1st, 2nd or 3rd place) be shown in the rankings for each contest.
 * Late entries are permitted.
 * To enter a contest, the contestant must add their name to the list of competitors in the contest and submit a PR to the main repo (MelaByte/contest_name).
 * Contests will have a folder in the source tree and an issue associated with them.
