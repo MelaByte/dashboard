@@ -1,7 +1,7 @@
 # MelaByte Hackathon
 The repo containing the contests, entries and winners of the MelaByte Hackathon.
 
-[View our Hackathons](https://github.com/MelaByte)
+[View our Contests](https://github.com/MelaByte)
 
 # Rules/Procedures
 
